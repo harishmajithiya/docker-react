@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Now! Now!
+          Learn React Now! Now! Welcome to AWS Elastic beanstock
         </a>
       </header>
     </div>
